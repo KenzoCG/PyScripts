@@ -1,0 +1,10 @@
+
+
+add_all_geo_nodes.py
+    - Add support for zones
+    - Make a new graph automatically
+    - Pop open in seperate window
+
+Add all nodes
+    - Make a seperate window popup for each type of node system
+    - Make a blank graph for each and populate it
